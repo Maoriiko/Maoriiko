@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Maoriiko&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20Entrepreneur&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Maoriiko&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Backend%20Platform%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevOps%20Specialist&descAlignY=55&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Maor+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Building+SnapTogether+%F0%9F%92%8D;React+%7C+Node.js+%7C+GCP+%7C+Docker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Maor+Evar+%F0%9F%91%8B;Senior+Backend+Platform+Engineer+%F0%9F%9A%80;GCP+%7C+AWS+%7C+Azure+DevOps+%E2%98%81%EF%B8%8F;DevOps+%7C+CI%2FCD+%7C+IaC+%F0%9F%94%A7;Founder+of+SnapTogether+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,15 +22,23 @@
 
 ```javascript
 const maor = {
-  name: "Maor",
+  name: "Maor Evar",
   username: "Maoriiko",
-  location: "Jerusalem, Israel 🇮🇱",
-  role: "Full-Stack Developer & Cloud Architect",
-  startup: "SnapTogether 💍 — Digital Wedding Platform",
-  skills: ["React", "Node.js", "MongoDB", "GCP", "Docker", "Nginx"],
-  devOps: ["GitLab CI/CD", "Docker Compose", "GCP Cloud Run"],
-  currentlyBuilding: "SnapTogether — Wedding Photo Sharing Platform",
-  hobbies: ["Music Production 🎵", "TikTok Content 📱", "Home Automation 🏠"],
+  location: "Israel 🇮🇱",
+  role: "Senior Backend Platform Engineer & Cloud Architect",
+  startup: "SnapTogether — Make Your Guests Part of the Story ✨",
+  skills: [
+    "C# / .NET", "Node.js", "React", "Python",
+    "MongoDB", "SQL Server", "MySQL", "InfluxDB"
+  ],
+  devOps: [
+    "GitLab CI/CD", "Terraform", "Docker",
+    "GCP (Project Nimbus)", "AWS", "Azure DevOps"
+  ],
+  monitoring: ["Prometheus", "Grafana", "OpenTelemetry", "Tempo"],
+  integration: ["IConduct (iPaaS)", "Apigee", "RESTful APIs", "Amazon Q"],
+  currentRole: "DevOps Specialist @ Ministry of Education",
+  experience: "14+ years",
   funFact: "I have sudo rights in real life 😄"
 };
 ```
@@ -44,32 +52,31 @@ const maor = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
----
-
-## 🚀 Featured Project
-
-<div align="center">
-
-[![SnapTogether Card](https://github-readme-stats.vercel.app/api/pin/?username=Maoriiko&repo=landing-pages-showcase&theme=tokyonight&border_color=7B61FF&bg_color=0d1117)](https://github.com/Maoriiko/landing-pages-showcase)
-
-### 💍 SnapTogether — Digital Wedding Platform
-> A full-stack wedding photo & memory sharing platform built with React, Node.js, MongoDB, and deployed on GCP with Docker.
-
-</div>
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 ---
 
@@ -105,9 +112,7 @@ const maor = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maoriiko)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maoriiko)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@maoriiko)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maoriiko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maorevar)
 
 </div>
 
