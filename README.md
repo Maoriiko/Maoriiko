@@ -22,7 +22,7 @@
 
 ```javascript
 const maor = {
-  name: "Maor Evar",
+  name: "Maor",
   username: "Maoriiko",
   location: "Israel 🇮🇱",
   role: "Senior Backend Platform Engineer & Cloud Architect",
