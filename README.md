@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Maoriiko&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Backend%20Platform%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevOps%20Specialist&descAlignY=55&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Maor+Evar+%F0%9F%91%8B;Senior+Backend+Platform+Engineer+%F0%9F%9A%80;GCP+%7C+AWS+%7C+Azure+DevOps+%E2%98%81%EF%B8%8F;DevOps+%7C+CI%2FCD+%7C+IaC+%F0%9F%94%A7;Founder+of+SnapTogether+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Maor+%F0%9F%91%8B;Senior+Backend+Platform+Engineer+%F0%9F%9A%80;GCP+%7C+AWS+%7C+Azure+DevOps+%E2%98%81%EF%B8%8F;DevOps+%7C+CI%2FCD+%7C+IaC+%F0%9F%94%A7;Founder+of+SnapTogether+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
